@@ -12,7 +12,7 @@ Hello! My name is Y'Robin/Robin, an aspiring Data Analyst.
 ### Technologies
 - Language: SQL, Python
 - Database: MSSQL, PostgreSQL
-- Visualization: In Progress.. (Palantir AIP, Power BI, Tableau)
+- Visualization: Palantir AIP, Power BI, Tableau
 
 ### Projects
 
