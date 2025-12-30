@@ -1,4 +1,26 @@
-## Hi there 👋
+## Introducing Myself
+
+Hello! My name is Y'Robin/Robin, an aspiring Data Analyst.
+
+### About Me
+
+- 🎓 Graduated with a B.S. in Computer Engineering at UNC Charlotte
+- 🤖 Interest in Machine Learning, Data Analytics, and UI/UX
+- ✏️ Believes in continuous education. Self-taught SQL and Full-Stack Development
+- 📚 Proficient in Microsoft Suite. Certified in Word, Powerpoint, Excel
+
+### Technologies
+- Language: SQL, Python
+- Database: MSSQL, PostgreSQL
+- Visualization: In Progress.. (Palantir AIP, Power BI, Tableau)
+
+### Projects
+
+Welcome to my GitHub where I display my projects (In Progress..)
+
+### Connect with me
+- [LinkedIn](http://linkedin.com/in/rknul)
+- [Email](mailto:yrobinbknul@gmail.com)
 
 <!--
 **rknul/rknul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
