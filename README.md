@@ -16,7 +16,7 @@ Hello! My name is Y'Robin/Robin, an aspiring Data Analyst.
 
 ### Projects
 
-Welcome to my GitHub where I display my [projects!](https://github.com/rknul/Portfolio)
+Check out my [portfolio](https://github.com/rknul/Portfolio) and things I've been working on!
 
 ### Connect with me
 - [LinkedIn](http://linkedin.com/in/rknul)
