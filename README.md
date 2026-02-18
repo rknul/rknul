@@ -1,18 +1,18 @@
 ## Welcome to my GitHub
 
-Hello! My name is Y'Robin/Robin, an aspiring Data Analyst.
+Hello! My name is Y'Robin/Robin, an aspiring Software Engineer.
 
 ### About Me
 
 - 🎓 Graduated with a B.S. in Computer Engineering at UNC Charlotte
-- 🤖 Interest in Machine Learning, Data Analytics, and UI/UX
+- 🤖 Interest in Machine Learning, Software Development, and UI/UX
 - ✏️ Believes in continuous education. Self-taught SQL and Full-Stack Development
-- 📚 Proficient in Microsoft Suite. Certified in Word, Powerpoint, Excel
+- 📚 Proficient in Microsoft Suite and Google Workspaces. Certified in Word, Powerpoint, Excel
 
 ### Technologies
-- Language: SQL, Python
-- Database: MSSQL, PostgreSQL
-- Visualization: Palantir AIP, Power BI, Tableau
+- Language: C#, Python, Typescript, SQL, HTML/CSS
+- Database: SQL Server, PostgreSQL
+- Framework/Tools: React, .NET, Git/GitHub
 
 ### Projects
 
